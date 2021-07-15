@@ -1,0 +1,27 @@
+{
+  "name": "node-red-contrib-line-get-reply-token",
+  "version": "0.0.7",
+  "description": "node-red-contrib-line-get-reply-token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richard-vu/node-red-contrib-line-get-reply-token.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "node-red": {
+    "nodes": {
+      "lower-case": "line-reply-token.js"
+    }
+  },
+  "author": "Richard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richard-vu/node-red-contrib-line-get-reply-token/issues"
+  },
+  "homepage": "https://github.com/richard-vu/node-red-contrib-line-get-reply-token#readme"
+}
